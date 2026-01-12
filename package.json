@@ -1,6 +1,7 @@
 {
   "name": "foodk",
   "version": "1.0.0",
+  "description": "Food Manager Application",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
